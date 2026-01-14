@@ -4,4 +4,5 @@ emails= []
     email_genere = "jean.dupont.#{nombre_formate}@email.fr"
     emails << email_genere
 end
+
 puts emails
